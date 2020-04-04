@@ -11,7 +11,7 @@ The i3-dmenu-desktop wrapper script that adds a jump alias to the specific runni
 ## Installation
 
 1. git clone `https://github.com/hsgwa/i3-dmenu-desktop-go-to-app-ws.git` 
-2. edit ./i3/config.
+2. edit ~/.config/i3/config.
 ```
 # launch dmenu-dekstop-go-to-app-ws
 bindsym $mod+space exec --no-startup-id [path-to-i3-dmenu-desktop-go-to-app-ws]
